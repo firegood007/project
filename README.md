@@ -1,17 +1,12 @@
-# vue-test
-
-> vue-test
-
-## Build Setup
-
-``` bash
+#检查npm 版本 >=3.0.0
+ npm install -g npm@3.0.0
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080 开发环境
 npm run dev
 
-# build for production with minification
+# build for production with minification  线上环境
 npm run build
 ```
 
