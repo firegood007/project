@@ -19,15 +19,3 @@
     components: {sidebar}
   }
 </script>
-<style>
-html,body,#app,.sidebar,.content{
-  height: 100%;
-  font-size: 16px;
-}
-.sidebar, .content {
-  padding-top:20px;
-}
-.main {
-  height: calc(100% - 60px);
-}
-</style>
