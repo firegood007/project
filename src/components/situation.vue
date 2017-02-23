@@ -10,12 +10,8 @@
 export default {
   data () {
     return {
-		title:'situation',		
+		title:'situation',
     }
   }
 }
 </script>
-
-<style >
-
-</style>

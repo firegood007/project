@@ -1,5 +1,5 @@
 {
-  "name": "vue-test",
+  "name": "project",
   "version": "1.0.0",
   "description": "vue-test",
   "author": "Rorywu",
@@ -30,7 +30,6 @@
     "html-webpack-plugin": "^2.8.1",
     "http-proxy-middleware": "^0.17.2",
     "json-loader": "^0.5.4",
-    "less": "^2.7.2",
     "less-loader": "^2.2.3",
     "opn": "^4.0.2",
     "ora": "^0.3.0",

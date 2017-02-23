@@ -10,12 +10,8 @@
 export default {
   data () {
     return {
-		title:'ctrlight',		
+		title:'ctrlight',
     }
   }
 }
 </script>
-
-<style >
-
-</style>
